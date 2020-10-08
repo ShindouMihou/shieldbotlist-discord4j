@@ -4,6 +4,7 @@ This is an unofficial API built for Java users, feel free to improve it as much 
 It will be maintained by me for the meantime, but I will be accepting pull requests if ever there is a need for one.
 - This version is for Discord4j, you can find the other versions below.
 - Javacord: https://github.com/ShindouMihou/shieldbotlist-javacord
+- JDA: https://github.com/ShindouMihou/shieldbotlist-jda
 
 ### How to install?
 
